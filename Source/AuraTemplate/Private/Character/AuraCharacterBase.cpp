@@ -17,4 +17,3 @@ void AAuraCharacterBase::BeginPlay()
 	Super::BeginPlay();
 	
 }
-
